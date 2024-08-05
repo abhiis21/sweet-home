@@ -1,0 +1,40 @@
+body{
+    background-color: #fef6e4 ;
+}
+.bg-primaery
+{
+
+}
+.bg-secondary
+{
+
+}
+.text-centre
+{
+    text-align: center;
+    margin: 20px;
+    
+}
+.primary-colour 
+{
+    color: #001858;
+}
+.btn
+{
+    width: 180px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: large;
+
+}
+.btn-primary
+{
+    background-color:#f582ae ;
+    
+}
+.no-underline
+{
+    text-decoration: none;
+}
