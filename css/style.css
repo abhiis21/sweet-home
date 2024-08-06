@@ -29,7 +29,7 @@ body{
     cursor: pointer;
     padding-bottom: 20px;
     font-size: 16px;
-    
+    color:#001858 ;
 
 }
 .btn-primary
@@ -51,7 +51,7 @@ body{
     box-shadow: 2px 5px 10px 5px #b3b3b3 ;
     margin-right: 20px;
     margin-bottom: 20px;
-    border-radius: 30px;
+    border-radius: 20px;
     flex-direction: row;
 
 }
@@ -66,13 +66,17 @@ body{
 .card-text
 {
     margin: 20px;
+    color:#172c66 ;
 }
 .card-dir
 {
     
     display: flex;
     flex-direction: row;
-    align-items: center;
+    text-align: start;
     margin-top: 70px;
-    justify-content: center;
+    justify-self: start;
+    
+    justify-content: space-around;
+    
 }
