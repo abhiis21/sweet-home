@@ -21,12 +21,15 @@ body{
 }
 .btn
 {
-    width: 180px;
-    margin: 20px auto;
-    padding: 10px 20px;
+    width: 100px;
+    height: 30px;
+    margin: 10px auto;
+    padding: 10px;
     border-radius: 20px;
     cursor: pointer;
-    font-size: large;
+    padding-bottom: 20px;
+    font-size: 16px;
+    
 
 }
 .btn-primary
@@ -37,4 +40,39 @@ body{
 .no-underline
 {
     text-decoration: none;
+}
+.card
+{
+    background-color: #fef6e4;
+    height: 420px;
+    width: 290px;
+    border: solid 1.5px black;
+    text-align: center;
+    box-shadow: 2px 5px 10px 5px #b3b3b3 ;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    flex-direction: row;
+
+}
+.img
+{
+    height: 220px;
+    width: 220px;
+    margin-top: 20px;
+    border: black 1px solid;
+    border-radius: 1opx;
+}
+.card-text
+{
+    margin: 20px;
+}
+.card-dir
+{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 70px;
+    justify-content: center;
 }
