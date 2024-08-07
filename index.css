@@ -54,3 +54,26 @@
 {
     font-size: large;
 }
+.img-card
+{
+    height: 200px;
+    width: 200px;
+    
+}
+.font
+{
+    font-family: cursive;
+}
+.back{
+    background-color: #f3d2c1;
+    height: 500px;
+    width: 100%;
+    
+}
+.card{
+    margin-top: 40px;
+}
+.card-h
+{
+    height: 350px;
+}
