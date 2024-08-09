@@ -11,7 +11,11 @@
     display: flex;
     flex-direction: row;
     justify-content: start;
-    background-color:#001858;
+    background-color: #f582ae;
+}
+.btn-primary{
+
+background-color:#f582ae   ;
     margin-bottom: 1px;
 }
 .barpng{
@@ -33,12 +37,15 @@
 {
     padding: 15px;
     margin: 8px;
+    margin-left: 200px;
 }
 .login
 {
-    margin-left: 50px;
+    margin-left: 70px;
     background-color: blue;
     color: white;
+    padding-bottom: 10px;
+    border-radius: 10px;
 }
 .back-page
 {
@@ -86,10 +93,10 @@
     height: 650px;
     width: 100%;
 }
-.footer-img
+.main-img
 {
     margin-left: 200px;
-    height: 500px;
+    height: 550px;
     width: 500px;
     
 }
@@ -114,4 +121,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 50px;
     margin-bottom: 0px;
+}
+.button-search{
+    
+    margin: 10px;
+    
 }
