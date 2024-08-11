@@ -5,8 +5,8 @@ Mango rasgulla layered with mascarpone, topped with matcha powder and freshly ch
 
 This Raksha Bandhan, go the extra mile and get your siblings the perfect sweet treats!
 <b>Home Page....</b>
-![screenshot](./../ssimg/home.png)
+![screenshot](./ssimg/home.png)
 <b>Menu Page...</b>
-![screenshot](./../ssimg/menu.png)
+![screenshot](./ssimg/menu.png)
 <b>Contact Page...</b>
-![screenshot](./../ssimg/contact.png)
+![screenshot](./ssimg/contact.png)
